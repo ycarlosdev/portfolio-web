@@ -31,3 +31,22 @@ El objetivo de este proyecto es:
 ## 🚀 Cómo usarlo
 
 1. Clona el repositorio:
+2. Abre `index.html` en tu navegador.
+3. Personaliza el contenido con tu información.
+
+---
+
+## 🤝 Personalización
+
+Puedes usar esta estructura como plantilla para:
+
+- Crear tu propio portafolio
+- Practicar HTML y CSS
+- Mejorar el diseño visual
+- Agregar animaciones o funcionalidades adicionales
+
+---
+
+## 📌 Nota
+
+Este proyecto fue desarrollado sin frameworks ni librerías externas, con el objetivo de reforzar los fundamentos de maquetación web.
