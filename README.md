@@ -30,7 +30,7 @@ El objetivo de este proyecto es:
 
 ## 🚀 Cómo usarlo
 
-1. Clona el repositorio:
+1. Clona el repositorio: https://github.com/ycarlosdev/portfolio-web
 2. Abre `index.html` en tu navegador.
 3. Personaliza el contenido con tu información.
 
